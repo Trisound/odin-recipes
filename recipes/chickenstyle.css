@@ -1,0 +1,28 @@
+body{
+  background-color: burlywood;
+}
+
+ .container1{
+   background-color: aliceblue;
+   border-radius: 20px;
+   padding: 8px ;
+   border: black 8px;
+   margin:8px;
+}
+
+.container2 {
+   background-color: aliceblue;
+   border-radius: 20px;
+   padding: 8px ;
+   border: black 8px;
+   margin:8px;
+}
+
+
+.container3 {
+   background-color: aliceblue;
+   border-radius: 20px;
+   padding: 8px ;
+   border: black 8px;
+   margin:8px;
+}
