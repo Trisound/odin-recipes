@@ -1,5 +1,5 @@
 body{
-  background-color: burlywood;
+  background-color: gray;
 }
 
  .container1, .container2, .container3{
@@ -9,3 +9,4 @@ body{
    border: black 8px;
    margin:8px;
 }
+
